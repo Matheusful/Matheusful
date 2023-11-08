@@ -5,6 +5,7 @@
 - 💞️ Estou me especializando em Back-End e tenho conhecimento do Front-End
 - 📫 Meu email é matheus02052005@gmail.com
 - 🎮 Gosto de jogar nas horas vagas
+- Estou começando um projeto nosso, que estará disponível em alguns dias
 
 <!---
 Matheusful/Matheusful is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
