@@ -1,11 +1,11 @@
 - 👋 Oi pessoal, Eu sou o @Matheusful
-- 👀 Estou começando a programar no VSCode e no IntelliJ
-- 🌱 Atualmente estou aprendendo Java | JavaScrip...
-- ✨ Tenho conhecimentos em HTML | CSS | Python Básic
-- 💞️ Estou me especializando em Back-End e tenho conhecimento do Front-End
+- 👀 Sou programador tanto no VSCode como no IntelliJ
+- 🌱 Atualmente estou me aprofundando em Java | JavaScrip e Python
+- ✨ Possui habilidades de programação em Frot-End
+- 💞️ Estou me especializando em Back-End.
 - 📫 Meu email é matheus02052005@gmail.com
 - 🎮 Gosto de jogar nas horas vagas
-- Estou começando um projeto nosso, que estará disponível em alguns dias
+- Estou começando um projeto que estará disponível em alguns dias.
 
 <!---
 Matheusful/Matheusful is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
